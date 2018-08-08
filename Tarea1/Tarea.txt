@@ -1,0 +1,5 @@
+DIFERENCIAS ENTRE GIT Y SOURCETREE:
+Con GIT hay que ir directamente a la linea de comandos y una vez dentro crear el repositorio y los commits mediante ciertos comandos, mientras tanto
+SOURCETREE es más grafico y permite crear repositorios y hacer commits con tan solo unos clicks.
+
+Utilize SOURCETREE porque se me hizo mas sencillo de usar y entendí mejor con esta forma grafica de hacerlo que con GIT.
