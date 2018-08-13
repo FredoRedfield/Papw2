@@ -1,0 +1,7 @@
+Para crear un repositorio con una rama 
+adicional en Sourcetree:
+
+1.-Dirigirse a las pestañas de arriba, dar clic en el signo de "+"
+2.- Crear el repositorio local en la carpeta seleccionada.
+3.-Una vez creado, clic en la opción Branch para crear una rama.
+4.- Darle nombre a la rama y dar clic en la opcion create branch.
